@@ -1,16 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Hi!%20I’m%20yunnina01&fontSize=50&fontAlignY=35&desc=Aiming%20for%20developer!&descSize=20&descAlign=60&descAlignY=50)
 
-<!--
-**yunnina01/yunnina01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = center>
+<h2>ɪɴsᴛʀᴜᴄᴛɪᴏɴ</h2>
+Hello! I am currently studying computer science at university. <br>
+Aiming to become a developer.
+<br><br><br>
+<h2>sᴛᴜᴅʏɪɴɢ</h2>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<br><br><br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![yunnina01's github stats](https://github-readme-stats.vercel.app/api?username=yunnina01&show_icons=true)
+[![yunnina01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnina01&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yunnina01)
