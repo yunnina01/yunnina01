@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Hi!%20I’m%20yunnina01&fontSize=50&fontAlignY=35&desc=Aiming%20for%20developer!&descSize=20&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Hi!%20I’m%20TaeHyun&fontSize=50&fontAlignY=35&desc=Aiming%20for%20developer!&descSize=20&descAlign=58&descAlignY=50)
 
 <div align = center>
 <h2>ɪɴsᴛʀᴜᴄᴛɪᴏɴ</h2>
