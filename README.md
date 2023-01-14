@@ -8,26 +8,27 @@ Aiming to become a developer. <br><br>
 
 </div>
 
- * **ɢɪᴛʜᴜʙ sᴛᴀᴛs** <br><br>
+ * **GitHub Stats** <br><br>
 ![yunnina01's github stats](https://github-readme-stats.vercel.app/api?username=yunnina01&show_icons=true&theme=swift)
-[![yunnina01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnina01&layout=compact&theme=swift)](https://github.com/yunnina01)
+![yunnina01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnina01&layout=compact&theme=swift)
 
- * **ʙᴀᴇᴋᴊᴏᴏɴ ᴛɪᴇʀ** <br><br>
+ * **Baekjoon Tier** <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunnina01)](https://solved.ac/yunnina01/)
 <br><br><br>
 
 <div align = center>
 
-<h2>sᴛᴜᴅʏɪɴɢ</h2>
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
+<a href="url" > <h2>:pencil: sᴛᴜᴅʏɪɴɢ</h2> </a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/>
 <br><br><br>
 
-<h2>ᴛᴏᴏʟs</h2>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
+<a href="url" > <h2>:computer: ᴛᴏᴏʟs </h2> </a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=flat&logo=Android%20Studio&logoColor=white"/>
 <br><br><br>
 
 </div>
