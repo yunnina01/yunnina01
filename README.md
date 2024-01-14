@@ -2,23 +2,24 @@
 
 <div align = center>
 
-## Instruction
+# 😎 Instruction
 Hi! <br>
-I am currently studying computer science at university <br>
+I'm currently studying computer science at university <br>
 Aiming to become a **Backend developer** <br>
 I want to participate in many projects <br><br>
 
 </div>
 
- * **GitHub Stat** <br><br>
+## 📌 GitHub Stat
 ![yunnina01's github stats](https://github-readme-stats.vercel.app/api?username=yunnina01&show_icons=true&theme=swift)
 ![yunnina01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnina01&layout=compact&theme=swift)
 
- * **Baekjoon Tier** <br><br>
+## 📌 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunnina01)](https://solved.ac/yunnina01/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yunnina01&theme=cold)
 <br><br><br>
 
-## Studying
+## 📌 Studying
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
@@ -32,26 +33,26 @@ I want to participate in many projects <br><br>
 <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/>
 <br><br>
 
-## Skill
+## 📌 Skill
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
 <br><br>
 
-## Editor / IDE
+## 📌 Editor / IDE
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=flat&logo=Android%20Studio&logoColor=white"/>
 <br><br>
 
-## ETC
+## 📌 ETC
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
 <br><br>
 
-## Contact
+## 📞 Contact
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>&nbsp;&nbsp;
