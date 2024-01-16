@@ -46,13 +46,15 @@ I want to participate in many projects
 <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=Csharp&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
 
+### [ Mobile ]
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=flat&logo=Android%20Studio&logoColor=white"/>
+
 ### [ ETC ]
 <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat&logo=The%20Algorithms&logoColor=black"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=flat&logo=Android%20Studio&logoColor=white"/>
 <br><br>
 
 ## 📌 Skill
@@ -62,6 +64,7 @@ I want to participate in many projects
 <br><br>
 
 ## 📌 University Course
+#### Major : Computer Science
 <table>
   <tr>
     <td><b>Year</b></td>
@@ -72,11 +75,11 @@ I want to participate in many projects
     <td align=center><b>Lecture</b></td>
   </tr>
   <tr>
-    <td rowspan="7">2022</td>
+    <td rowspan="8">2022</td>
     <td><b>Data-Structure</b></td>
-    <td rowspan="7"> 2023</td>
+    <td rowspan="8"> 2023</td>
     <td><b>Algorithm</b></td>
-    <td rowspan="7"> 2024</td>
+    <td rowspan="8"> 2024</td>
     <td></td>
   </tr>
   <tr>
@@ -109,6 +112,11 @@ I want to participate in many projects
     <td>System Programming</td>
     <td></td>
   </tr>
+  <tr>
+    <td></td>
+    <td>Network Programming</td>
+    <td></td>
+  </tr>
 </table>
 <br>
 
@@ -123,7 +131,7 @@ I want to participate in many projects
 <img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=google-meet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/>
 
