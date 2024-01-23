@@ -19,7 +19,8 @@ I want to participate in many projects
 | :---: | --- | --- |
 | 2022.11. ~ 2022.12. | Instagram Clone Coding | Team Project , Android |
 | 2023.06 | Simple Notice Board | Node.js |
-| 2023.11 | Simple Notice Board | SpringBoot |
+| 2023.11 | Simple Blog | SpringBoot |
+| 2024.01 | Simple Notice Board | SpringBoot |
 
 <br>
 
