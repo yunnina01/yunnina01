@@ -14,6 +14,14 @@ I want to participate in many projects
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yunnina01&theme=cold)
 <br><br>
 
+## 📌 Certificate
+| Date | Subject |
+| :---: | --- |
+| 2021.03 | 정보처리기능사 |
+| 2023.02 | 컴퓨터활용능력 1급 |
+
+<br>
+
 ## 📌 Project
 | Period | Topic | Note |
 | :---: | --- | --- |
