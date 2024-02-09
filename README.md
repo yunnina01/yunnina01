@@ -25,7 +25,7 @@ I want to participate in many projects
 ## 📌 Project
 | Period | Topic | Note |
 | :---: | --- | --- |
-| 2022.11. ~ 2022.12. | Instagram Clone Coding | Team Project , Android |
+| 2022.11 ~ 2022.12 | Instagram Clone Coding | Team Project , Android |
 | 2023.06 | Simple Notice Board | Node.js |
 | 2023.11 | Simple Blog | SpringBoot |
 | 2024.01 | Simple Notice Board | SpringBoot |
@@ -44,7 +44,8 @@ I want to participate in many projects
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white"/> </a>
@@ -67,7 +68,7 @@ I want to participate in many projects
 <br><br>
 
 ## 📌 Skill
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
 <br><br>
@@ -137,11 +138,13 @@ I want to participate in many projects
 ## 📞 Contact
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=NAVER&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=google-meet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer)
