@@ -74,59 +74,66 @@ I want to participate in many projects
 <br><br>
 
 ## 📌 University Course
-#### Major : Computer Science
 <table>
-  <tr>
-    <td><b>Year</b></td>
-    <td align=center><b>Lecture</b></td>
-    <td><b>Year</b></td>
-    <td align=center><b>Lecture</b></td>
-    <td><b>Year</b></td>
-    <td align=center><b>Lecture</b></td>
-  </tr>
-  <tr>
-    <td rowspan="8">2022</td>
-    <td><b>Data-Structure</b></td>
-    <td rowspan="8"> 2023</td>
-    <td><b>Algorithm</b></td>
-    <td rowspan="8"> 2024</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Structured Query Language</td>
-    <td><b>Database</b></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Object-Oriented Programming (Java)</td>
-    <td><b>Operating System</b></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Mobile Programming</td>
-    <td><b>Software Engineering</b></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Logic Design (Logic Circuit)</td>
-    <td><b>Computer Architecture</b></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Programming Language</td>
-    <td><b>Data Communication</b></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Computer Graphics</td>
-    <td>System Programming</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Network Programming</td>
-    <td></td>
-  </tr>
+  <caption><h4>Major : Computer Science</h4></caption>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Lecture</th>
+      <th>Year</th>
+      <th>Lecture</th>
+      <th>Year</th>
+      <th>Lecture</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <th colspan="6" align="right">grade : #.## / 4.5</th>
+  </tfoot>
+  <tbody>
+    <tr>
+      <th rowspan="8">2022</th>
+      <td><b>Data-Structure</b></td>
+      <th rowspan="8">2023</th>
+      <td><b>Algorithm</b></td>
+      <th rowspan="8"> 2024</th>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Structured Query Language</td>
+      <td><b>Database</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Object-Oriented Programming (Java)</td>
+      <td><b>Operating System</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mobile Programming</td>
+      <td><b>Software Engineering</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Logic Design (Logic Circuit)</td>
+      <td><b>Computer Architecture</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Programming Language</td>
+      <td><b>Data Communication</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Computer Graphics</td>
+      <td>System Programming</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Network Programming</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 <br>
 
