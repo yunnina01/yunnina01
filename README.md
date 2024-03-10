@@ -7,7 +7,8 @@ Hi! <br>
 I'm currently studying computer science at university <br>
 Aiming to become a **Backend(Java) developer** <br>
 I want to participate in many projects
-</div><br>
+</div>
+<br>
 
 ## 📌 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunnina01)](https://solved.ac/yunnina01/)
@@ -68,6 +69,7 @@ I want to participate in many projects
 <br><br>
 
 ## 📌 Skill
+### [ Programming Language ]
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
@@ -96,17 +98,17 @@ I want to participate in many projects
       <th rowspan="8">2023</th>
       <td><b>Algorithm</b></td>
       <th rowspan="8"> 2024</th>
-      <td></td>
+      <td>Artificial Intelligence</td>
     </tr>
     <tr>
       <td>Structured Query Language</td>
       <td><b>Database</b></td>
-      <td></td>
+      <td>Big Data</td>
     </tr>
     <tr>
       <td>Object-Oriented Programming (Java)</td>
       <td><b>Operating System</b></td>
-      <td></td>
+      <td>Compiler</td>
     </tr>
     <tr>
       <td>Mobile Programming</td>
