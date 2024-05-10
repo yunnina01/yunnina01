@@ -26,22 +26,17 @@ I want to participate in many projects
 ## 📌 Project
 | Period | Topic | Note |
 | :---: | --- | --- |
-| 2022.11 ~ 2022.12 | Instagram Clone Coding | Team Project , Android |
-| 2023.06 | Simple Notice Board | Node.js |
-| 2023.11 | Simple Blog | SpringBoot |
-| 2024.01 | Simple Notice Board | SpringBoot |
-| 2024.02~ | Psychotherapy Chatbot | Team Project , Flask , Pytorch |
+| 2022.11. ~ 2022.12. | Instagram Clone Coding | Team Project , Android |
+| 2023.06. | Simple Notice Board | Node.js |
+| 2023.11. | Simple Blog | SpringBoot |
+| 2024.01. | Simple Notice Board | SpringBoot |
+| 2024.02. ~ 2024.04. | Psychotherapy Chatbot | Team Project , Flask , Pytorch |
 
 <br>
 
 ## 📌 Study
-### [ Front-End ]
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/> <br>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat&logo=Visual%20Studio%20Code&logoColor=white"/> </a>
-
 ### [ Back-End ]
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/> </a>
-<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot"/> </a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
@@ -75,6 +70,7 @@ I want to participate in many projects
 ### [ Front-End ]
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
 <br><br>
 
 ## 📌 University Course
