@@ -18,8 +18,8 @@ I want to participate in many projects
 ## 📌 Certificate
 | Date | Subject |
 | :---: | --- |
-| 2021.03 | 정보처리기능사 |
-| 2023.02 | 컴퓨터활용능력 1급 |
+| 2021.03. | 정보처리기능사 |
+| 2023.02. | 컴퓨터활용능력 1급 |
 <br>
 
 ## 📌 Project
@@ -141,10 +141,16 @@ I want to participate in many projects
 <br><br>
 
 ## 📞 Contact
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=NAVER&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=000000"/>
+<div align=left>
+  <a href="https://github.com/yunnina01/yunnina01/issues" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:yunnina01@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=NAVER&logoColor=FFFFFF"/>
+  </a>
+  <img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer)
