@@ -18,8 +18,9 @@ I want to participate in many projects
 ## 📌 Certificate
 | Date | Subject |
 | :---: | --- |
-| 2021.03. | 정보처리기능사 |
-| 2023.02. | 컴퓨터활용능력 1급 |
+| 2021.03. | Craftsman Information Processing<br>(정보처리기능사) |
+| 2023.02. | Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급) |
+| 2024.06. | Engineer Information Processing<br>(정보처리기사) |
 <br>
 
 ## 📌 Project
@@ -29,7 +30,7 @@ I want to participate in many projects
 | 2023.06. | Simple Notice Board | Node.js |
 | 2023.11. | Simple Blog | SpringBoot |
 | 2024.01. | Simple Notice Board | SpringBoot |
-| 2024.02. ~ 2024.04. | Psychotherapy Chatbot | Team Project , Flask , Pytorch |
+| 2024.02. ~ 2024.04. | Psychotherapy Chatbot | Senier Project (Team Project) , Flask , Pytorch |
 <br>
 
 ## 📌 Study
