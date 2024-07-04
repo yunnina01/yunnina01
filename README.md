@@ -36,7 +36,8 @@ I want to participate in many projects
 ## 📌 Study
 ### [ Back-End ]
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
@@ -45,9 +46,9 @@ I want to participate in many projects
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
 
-### [ Game ]
-<img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=Csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
+### [ Deep-Learning ]
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
 
 ### [ Mobile ]
 <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/></a>
@@ -55,9 +56,7 @@ I want to participate in many projects
 
 ### [ ETC ]
 <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat&logo=The%20Algorithms&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 <br><br>
 
 ## 📌 Skill
@@ -138,7 +137,7 @@ I want to participate in many projects
 
 ## 📌 GitHub Stat
 ![yunnina01's github stats](https://github-readme-stats.vercel.app/api?username=yunnina01&show_icons=true&theme=swift)
-![yunnina01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnina01&layout=compact&theme=swift)
+![yunnina01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnina01&layout=compact&theme=swift&langs_count=10&card_width=320)
 <br><br>
 
 ## 📞 Contact
