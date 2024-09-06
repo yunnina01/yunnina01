@@ -10,10 +10,10 @@ I want to participate in many projects
 </div>
 <br>
 
-## 📌 Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunnina01)](https://solved.ac/yunnina01/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yunnina01&theme=cold)
-<br><br>
+## 📌 Career
+| Period | Company | Position |
+| :----: | ------- | -------- |
+| 2024.09. ~ | vision inside | Intern (PE) |
 
 ## 📌 Certificate
 | Date | Subject |
@@ -28,47 +28,56 @@ I want to participate in many projects
 | :---: | --- | --- |
 | 2022.11. ~ 2022.12. | Instagram Clone Coding | Team Project , Android |
 | 2023.06. | Simple Notice Board | Node.js |
-| 2023.11. | Simple Blog | SpringBoot |
-| 2024.01. | Simple Notice Board | SpringBoot |
-| 2024.02. ~ 2024.04. | Psychotherapy Chatbot | Senier Project (Team Project) , Flask , Pytorch |
+| 2023.11. | Simple Blog | Spring Boot |
+| 2024.01. | Simple Notice Board | Spring Boot |
+| 2024.02. ~ 2024.04. | Psychotherapy Chatbot | Senier Project (Team Project) , Flask , PyTorch |
 <br>
 
 ## 📌 Study
+### [ Front-End ]
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)</a>
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=fllat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+
 ### [ Back-End ]
-<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot"/></a>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)</a>
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+<br>
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)</a>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)</a>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 ### [ Deep-Learning ]
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)</a>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
-### [ Mobile ]
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=flat&logo=Android%20Studio&logoColor=white"/>
+### [ IDE ]
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white)</a>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### [ ETC ]
-<img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat&logo=The%20Algorithms&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+![Algorithm](https://img.shields.io/badge/Algorithm-00BCB4?style=flat&logo=The%20Algorithms&logoColor=black)&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 <br><br>
 
 ## 📌 Skill
 ### [ Programming Language ]
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)</a>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ### [ Front-End ]
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black)
 <br><br>
 
 ## 📌 University Course
@@ -135,6 +144,11 @@ I want to participate in many projects
 </table>
 <br>
 
+## 📌 Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunnina01)](https://solved.ac/yunnina01/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yunnina01&theme=cold)
+<br><br>
+
 ## 📌 GitHub Stat
 ![yunnina01's github stats](https://github-readme-stats.vercel.app/api?username=yunnina01&show_icons=true&theme=swift)
 ![yunnina01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnina01&layout=compact&theme=swift&langs_count=10&card_width=320)
@@ -150,7 +164,7 @@ I want to participate in many projects
     <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=NAVER&logoColor=FFFFFF"/>
   </a>
   <img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer)
