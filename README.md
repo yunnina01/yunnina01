@@ -1,26 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=230&section=header&text=TaeHyun's%20GitHub&fontSize=50&fontAlignY=35&desc=Aiming%20for%20developer!&descSize=20&descAlign=58&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=230&section=header&text=Taehyun's%20GitHub&fontSize=50&fontAlignY=35&desc=Aiming%20for%20developer!&descSize=20&descAlign=58&descAlignY=50)
 
 <div align=center>
 
 # 😎 Instruction
-Hi! <br>
-I'm currently studying computer science at university<br>
-Aiming to become a **Backend(Java) developer**<br>
+Hi! My name is Taehyun <br>
+I am majoring in computer science at university. <br>
+My goal is to become a **Back-End developer** <br>
 I want to participate in many projects
 </div>
 <br>
 
 ## 📌 Career
-| Period | Company | Position |
+| Period | Company (Dept) | Position |
 | :----: | ------- | -------- |
-| 2024.09. ~ | vision inside | Intern (PE) |
+| 2024.09.02 ~ | vision inside (IT Infra Team) | Intern (PE) |
 
 ## 📌 Certificate
 | Date | Subject |
 | :---: | --- |
-| 2021.03. | Craftsman Information Processing<br>(정보처리기능사) |
-| 2023.02. | Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급) |
-| 2024.06. | Engineer Information Processing<br>(정보처리기사) |
+| 2021.03.05 | Craftsman Information Processing<br>(정보처리기능사) |
+| 2023.02.03 | Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급) |
+| 2024.06.18 | Engineer Information Processing<br>(정보처리기사) |
 <br>
 
 ## 📌 Project
@@ -49,6 +49,7 @@ I want to participate in many projects
 <br>
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)</a>
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)</a>
