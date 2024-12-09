@@ -13,7 +13,8 @@ I want to participate in many projects
 ## 📌 Career
 | Period | Company (Dept) | Position |
 | :----: | ------- | -------- |
-| 2024.09.02 ~ | vision inside (IT Infra Team) | Intern (PE) |
+| 2024.09.02 ~ 2024.12.02 | vision inside (IT Infra Team) | Intern (PE) |
+<br>
 
 ## 📌 Certificate
 | Date | Subject |
@@ -39,22 +40,19 @@ I want to participate in many projects
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)</a>
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=fllat&logo=redux&logoColor=white)
 ![React-Query](https://img.shields.io/badge/-React&#8211;Query-FF4154?style=flat&logo=react%20query&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 <br>
-![VITE](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)</a>
-![Axios](https://img.shields.io/badge/Axios-671ddf?&style=flat&logo=axios&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)</a>
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-671ddf?&style=flat&logo=axios&logoColor=white)
 
 ### [ Back-End ]
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)</a>
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 <br>
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)</a>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)</a>
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 <br>
@@ -75,7 +73,7 @@ I want to participate in many projects
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### [ ETC ]
-![Algorithm](https://img.shields.io/badge/Algorithm-00BCB4?style=flat&logo=The%20Algorithms&logoColor=black)&nbsp;&nbsp;
+![Algorithm](https://img.shields.io/badge/Algorithm-00BCB4?style=flat&logo=The%20Algorithms&logoColor=black)&ensp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 <br><br>
 
@@ -129,7 +127,7 @@ I want to participate in many projects
     <tr>
       <td>Mobile Programming</td>
       <td><b>Software Engineering</b></td>
-      <td></td>
+      <td>Internship</td>
     </tr>
     <tr>
       <td>Logic Design (Logic Circuit)</td>
